@@ -48,4 +48,3 @@ artifacts:
     - config.js
     - imagedefinitions.json
     - package.json
-    - index.js
